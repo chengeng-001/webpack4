@@ -1,0 +1,2 @@
+//配置生产环境压缩方案: js和css
+terser-webpack-plugin
